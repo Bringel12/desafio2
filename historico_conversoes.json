@@ -1,0 +1,17 @@
+[
+    {
+        "data": "22/10/2026 18:38:35",
+        "tipo": "Temperatura",
+        "conversao": "3000.0 °C ➔ 5432.00 °F"
+    },
+    {
+        "data": "22/10/2026 18:38:56",
+        "tipo": "Temperatura",
+        "conversao": "45000.0 °C ➔ 81032.00 °F"
+    },
+    {
+        "data": "22/10/2026 18:39:03",
+        "tipo": "Distância",
+        "conversao": "3949.0 m ➔ 3.95 km"
+    }
+]
